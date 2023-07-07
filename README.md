@@ -1,4 +1,4 @@
-# Basic-Calculator..
+# Basic-Calculator.
 you can use this code for doing some basic calculcation as like (Addition,Subtraction,Multiplication,Devition,Exponential,Modulus)
 
 
